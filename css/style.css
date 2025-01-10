@@ -27,6 +27,9 @@ button{
     cursor: pointer;
     border: none;
 }
+
+
+
 /* sidebar */
 
 .sidebar{
@@ -54,6 +57,8 @@ button{
     align-items: flex-start;
     gap: 24px;
 }
+
+
 
 
 /* Main Content */
@@ -109,6 +114,8 @@ button{
     align-items: center;
 }
 
+
+
 /* Booking */
 
 .booking{
@@ -128,6 +135,8 @@ button{
     background: #E7EEFF;
 }
 
+
+
 /* Section */
 
 .section-container{
@@ -136,6 +145,9 @@ button{
     align-items: center;
     gap: 42px;
 }
+
+
+
 /* Cards */
 .card{
     display: flex;
